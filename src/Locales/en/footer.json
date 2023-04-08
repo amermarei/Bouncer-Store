@@ -1,0 +1,28 @@
+{
+    "contact" :{
+        "letter" : " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever.Since the 1500s, when an unknown printer." ,
+        "follow" :{
+            "head" : "Follow Us" ,
+            "desc" :"Since the 1500s, when an unknown printer took a galley of type and scrambled."
+        },
+        "Contact_Us" : {
+            "head": "Contact Us",
+            "add": "My Company , 4578 Marmora Road, Glasgow D04 89GR",
+            "call" :"Call us now : 0123-456-789",
+            "email" : "Email : support@whatever.com"
+        } 
+      },
+      "links" : {
+        "informations" : "informations",
+        "Userful_Links" : "Userful Links",
+        "My_Account" :"My Account",
+        "Extras" : "Extras",
+        "Service" : "Service",
+        "Our_Offers" : "Our Offers",
+        "About_Us" : "About Us" ,
+        "Privacy_Policy" :"Privacy_Policy" ,
+        "Terms" : "Terms & Conditions" 
+      }
+      
+    
+}

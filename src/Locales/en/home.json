@@ -1,0 +1,74 @@
+{
+    "nav" :{
+        "my_profile" :"My Profile"
+      },
+      "carousel" : {
+        "head" : " iPhone X" ,
+        "desc" :"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+        "more" : "More"
+      },
+      "carousel2" : {
+        "head" : " iPhone 6 Plus" ,
+        "desc" :"Performance and design. Taken right",
+        "desc2" :"to the edge.",
+        "more" : "More"
+      },
+      "best_seller": {
+        "head" : "BEST SELLER",
+        "links" :{
+          "All" : "All" ,
+          "electronics" : "electronics" ,
+          "jewelery" : "jewelery" ,
+          "menClothing" : "men's clothing",
+          "womenClothing" : "women's clothing"
+        }
+      },
+      "Features" : {
+        "shipping" : "FREE SHIPPING" ,
+        "refund": "100% REFUND",
+        "support" : "SUPPORT 24/7",
+        "desc" : "  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor minim veniam, quis nostrud reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+      },
+      "news" : {
+        "head" : "LATEST NEWS" ,
+        "card" :{
+            "head" : "Typesetting industry",
+            "desc" : "Lorem Ipsum is simply dummy text of the printing and" , 
+            "last_update" : "Last updated 3 mins ago"
+
+        }
+      },
+      "products" : {
+        "head" : "FEATURED PRODUCTS"
+      },
+      "cart" : {
+       "product" : "PRODUCT" ,
+       "price" : "PRICE",
+       "qty" : "QTY",
+       "unit_price" : "UNIT PRICE",
+       "check_out" : {
+        "voucher_code" : "Voucher Code" ,
+        "Redeem" : "Redeem",
+        "checkout" : "Check out",
+        "subtotal" : "Subtotal" ,
+        "Shipping_fee" : "Shipping fee" ,
+        "Coupon" : "Coupon",
+        "total" : "TOTAL"
+      }
+      }
+      ,
+      "product_details" : {
+        "category" : "Category :" ,
+        "availability" : "Availability : ",
+        "count" : " Count :",
+        "related_product" : "RELATED PRODUCTS",
+       "product_information"  : "Product Information"
+      },
+      "advertise" : {
+        "mobile" : "iPhone 6",
+        "camera" : "GoPro Hero 6",
+        "vr":"Oculus Rift",
+        "desc":"Lorem Ipsum dolor sit amet, consectetur adipiscing elit, labor"
+       }
+    
+}
